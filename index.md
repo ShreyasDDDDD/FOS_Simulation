@@ -7,7 +7,7 @@ permalink: /
 
 # 💥 Tether Collapse & Remittance Crisis in Vietnam
 
-![Tether Collapse Banner](https://images.yourstory.com/production/document_image/mystoryimage/f26cfgc7-Screen-Shot-2018-01-23-at-12.12.21-PM.png?fm=png&auto=format&w=800&blur=500)
+![Tether Collapse Banner](https://f1.tokenpost.com/2020/07/iy7gvbgukb.png)
 
 Welcome to the official simulation hub for the **Tether (USDT) Collapse & Remittance Crisis in Vietnam** — a strategic and educational scenario exploring the vulnerabilities of global digital finance, the collapse of stablecoin infrastructure, and its impact on human security.
 
@@ -42,7 +42,7 @@ On **April 27, 2025**, Tether’s reserves were compromised by a major exploit, 
 
 ## 📸 Visual Snapshot
 
-![Vietnam Remittance Crisis](https://cdn.pixabay.com/photo/2017/06/29/05/29/money-2459709_960_720.jpg)
+![Vietnam Remittance Crisis](https://cdn.statcdn.com/Statistic/880000/880787-blank-754.png)
 
 > *“When the coin crashed, we didn’t just lose money — we lost a lifeline.”*  
 > — Roleplay testimony from a remittance-dependent Vietnamese family
