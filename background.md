@@ -1,7 +1,7 @@
 ---
 title: Background
 nav_order: 2
-layout: default
+layout: background
 ---
 
 # 🧠 Background: Why This Simulation Matters
