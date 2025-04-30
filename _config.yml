@@ -1,7 +1,7 @@
-# Update the 
-title: Just Another Simulation
-description: A starter template for new simulations.
-footer_content: 'Simulation for Future of Security.'
+# Site Identity
+title: Tether Collapse Simulation
+description: Explore the global fallout of a stablecoin crash and its human impact in Vietnam.
+footer_content: 'Created as part of Simulation Project: Future of Security – A simulation on financial resilience in the digital age.'
 
 # Theme configurations. Do NOT modify.
 theme: just-the-docs
