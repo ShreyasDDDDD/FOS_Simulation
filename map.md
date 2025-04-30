@@ -7,7 +7,7 @@ nav_order: 4
 # 🗺️ Simulation Event Map
 
 <iframe
-  src="https://www.google.com/maps/d/embed?mid=YOUR_MAP_ID_HERE"
+  src="https://www.google.com/maps/d/u/0/edit?mid=1prpWejYZ4m9gx-lhn2ANJeOlsbmjP-w&usp=sharing"
   width="100%"
   height="600"
   style="border:1px solid #ccc; margin-top: 1rem"
