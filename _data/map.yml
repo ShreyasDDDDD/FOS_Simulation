@@ -1,34 +1,11 @@
-- title: Tether Reserve Breach
+- title: Tether Breach Detected
   location: "British Virgin Islands"
   lat: 18.4207
   lng: -64.6400
-  description: >
-    Location of Tether Ltd.'s registration. The breach that destabilized USDT originated from a critical exploit traced to this entity's infrastructure.
+  description: "Exploit traced to Tether’s offshore reserves."
 
-- title: Remittance Panic in Ho Chi Minh City
+- title: Panic in Ho Chi Minh City
   location: "Ho Chi Minh City, Vietnam"
   lat: 10.7769
   lng: 106.7009
-  description: >
-    Thousands of families reported remittance failures. Local media fueled panic as queues formed outside P2P crypto agents.
-
-- title: IMF Emergency Meeting
-  location: "Washington D.C., USA"
-  lat: 38.9072
-  lng: -77.0369
-  description: >
-    The IMF convened a high-level emergency session to address the global consequences of the stablecoin collapse.
-
-- title: Hanoi Policy Response Center
-  location: "Hanoi, Vietnam"
-  lat: 21.0285
-  lng: 105.8544
-  description: >
-    The Vietnamese government activated a digital finance task force and coordinated public messaging and relief efforts.
-
-- title: Binance Freeze Orders
-  location: "Singapore"
-  lat: 1.3521
-  lng: 103.8198
-  description: >
-    Binance’s regional compliance center issued global halt orders on USDT transactions to reduce cross-platform liquidity contagion.
+  description: "Crypto ATMs overwhelmed by withdrawal requests."
