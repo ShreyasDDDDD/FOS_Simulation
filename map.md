@@ -10,4 +10,3 @@ This interactive map highlights the key locations affected by or involved in the
 
 It shows major cities in Vietnam impacted by remittance disruptions, as well as international locations tied to regulatory, financial, and investigative responses.
 
-> ⚠️ To customize the events, update the `_data/map.yml` file with your own locations and details.
