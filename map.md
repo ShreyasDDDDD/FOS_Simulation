@@ -2,6 +2,7 @@
 title: Event Map
 layout: default
 nav_order: 4
+tooltip: "View the interactive map of events impacted by the Tether collapse"
 ---
 
 # 🗺️ Simulation Event Map
