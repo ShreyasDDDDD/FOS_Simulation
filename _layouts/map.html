@@ -1,44 +1,56 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tether Collapse Simulation Map</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #f9f9f9;
+      color: #222;
+    }
+    h1 {
+      color: #1a73e8;
+    }
+    .map-container {
+      border: 1px solid #ccc;
+      height: 600px;
+      width: 100%;
+      max-width: 960px;
+      margin: 2rem auto;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .footer {
+      font-size: 0.9rem;
+      text-align: center;
+      margin-top: 1.5rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
 
-<!-- Map Container -->
-<div id="map" style="height: 600px; margin-top: 1rem; border: 1px solid #ccc;"></div>
+  <h1>🗺️ Event Map: Tether Collapse & Remittance Crisis</h1>
+  <p>This map displays key locations affected by the Tether (USDT) collapse, including cities in Vietnam and international financial coordination centers.</p>
 
-<!-- Leaflet CSS -->
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-  integrity="sha512-sA+ePka63XlK7iGVVtD4K1fb1kQo+txRtXItDz6z3jqRWlC19AYoDA5ABMowdNTGlbmRZbZxNQG+5Pz9KX3v5Q=="
-  crossorigin=""
-/>
+  <div class="map-container">
+    <iframe
+      src="https://www.google.com/maps/d/u/0/embed?mid=1prpWejYZ4m9gx-lhn2ANJeOlsbmjP-w&ehbc=2E312F"
+      allowfullscreen
+      loading="lazy">
+    </iframe>
+  </div>
 
-<!-- Leaflet JS -->
-<script
-  src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-  integrity="sha512-pHsV9wrWSP3Fd5NUE6W6J74HZCNOwF1Z5b08g9N8XTojod7m9vb7Kh0nBg7nCk59zOZ9BvclUK+VDMY5bBaeoQ=="
-  crossorigin=""
-></script>
+  <div class="footer">
+    This map is part of the <strong>Future of Security Project 2</strong> simulation module.
+  </div>
 
-<!-- Initialize Map -->
-<script>
-  var map = L.map('map').setView([15.87, 100.99], 4); // Centered on SE Asia
-
-  // Add tile layer
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution:
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  }).addTo(map);
-</script>
-
-<!-- Map Data Injection -->
-<script>
-  const mapData = {{ site.data.map | jsonify }};
-
-  mapData.forEach((event) => {
-    L.marker([event.lat, event.lng])
-      .addTo(map)
-      .bindPopup(`<strong>${event.title}</strong><br>${event.description}`);
-  });
-</script>
+</body>
+</html>
