@@ -7,7 +7,7 @@ permalink: /
 
 # 💥 Tether Collapse & Remittance Crisis in Vietnam
 
-![Tether Collapse Banner](https://cdn.pixabay.com/photo/2017/01/10/19/05/money-1974691_1280.jpg)
+![Tether Collapse Banner](https://images.yourstory.com/production/document_image/mystoryimage/f26cfgc7-Screen-Shot-2018-01-23-at-12.12.21-PM.png?fm=png&auto=format&w=800&blur=500)
 
 Welcome to the official simulation hub for the **Tether (USDT) Collapse & Remittance Crisis in Vietnam** — a strategic and educational scenario exploring the vulnerabilities of global digital finance, the collapse of stablecoin infrastructure, and its impact on human security.
 
