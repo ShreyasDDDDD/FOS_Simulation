@@ -11,4 +11,3 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - scenarios
