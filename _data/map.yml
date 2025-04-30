@@ -1,34 +1,48 @@
-- title: Tether Reserve Breach
-  location: "British Virgin Islands"
-  lat: 18.4207
-  lng: -64.6400
-  description: >
-    Location of Tether Ltd.'s registration. The breach that destabilized USDT originated from a critical exploit traced to this entity's infrastructure.
+# Project Identity
+title: Tether Collapse Simulation
+description: Explore the fallout of a stablecoin crash and its impact on remittance-dependent communities in Vietnam.
+footer_content: 'Simulation built for Project 2: Future of Security.'
 
-- title: Remittance Panic in Ho Chi Minh City
-  location: "Ho Chi Minh City, Vietnam"
-  lat: 10.7769
-  lng: 106.7009
-  description: >
-    Thousands of families reported remittance failures. Local media fueled panic as queues formed outside P2P crypto agents.
+# Just the Docs Theme Settings
+theme: just-the-docs
+permalink: pretty
 
-- title: IMF Emergency Meeting
-  location: "Washington D.C., USA"
-  lat: 38.9072
-  lng: -77.0369
-  description: >
-    The IMF convened a high-level emergency session to address the global consequences of the stablecoin collapse.
+# Navigation Structure
+nav_order: 1
 
-- title: Hanoi Policy Response Center
-  location: "Hanoi, Vietnam"
-  lat: 21.0285
-  lng: 105.8544
-  description: >
-    The Vietnamese government activated a digital finance task force and coordinated public messaging and relief efforts.
+# Sidebar navigation tooltips
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    sidebar:
+      nav: main
 
-- title: Binance Freeze Orders
-  location: "Singapore"
-  lat: 1.3521
-  lng: 103.8198
-  description: >
-    Binance’s regional compliance center issued global halt orders on USDT transactions to reduce cross-platform liquidity contagion.
+# Exclude files from build
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Sidebar navigation items
+# (These follow the nav_order set in each .md file’s front matter)
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      nav_exclude: false
+
+# Optional collapsible menu for grouping
+# Uncomment if you'd like to use a parent page (like “Simulation Tools”)
+# For example:
+# - map.md
+# - roles.md
+# - timeline.md
+# can be grouped under "Simulation Tools"
+
+# Just the Docs Advanced Options (optional)
+search_enabled: true
+heading
