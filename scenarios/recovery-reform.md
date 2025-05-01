@@ -2,6 +2,7 @@
 title: Recovery & Policy Reform
 parent: scenarios
 nav_order: 5
+layout: default
 ---
 
 # 🌱 Scenario 5: Recovery & Policy Reform
