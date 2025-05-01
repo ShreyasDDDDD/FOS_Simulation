@@ -1,6 +1,6 @@
 ---
 title: Pre-Crash Market Stress
-parent: scenarios
+parent: Scenarios
 nav_order: 1
 layout: default
 ---
