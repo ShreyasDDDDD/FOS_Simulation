@@ -1,6 +1,6 @@
 ---
 title: Government & IMF Intervention
-parent: scenarios
+parent: Scenarios
 nav_order: 4
 layout: default
 ---
