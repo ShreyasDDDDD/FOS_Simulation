@@ -1,6 +1,6 @@
 ---
 title: Remittance Panic in Vietnam
-parent: scenarios
+parent: Scenarios
 nav_order: 3
 layout: default
 ---
