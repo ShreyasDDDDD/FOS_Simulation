@@ -2,6 +2,7 @@
 title: Remittance Panic in Vietnam
 parent: scenarios
 nav_order: 3
+layout: default
 ---
 
 # 😨 Scenario 3: Remittance Panic in Vietnam
