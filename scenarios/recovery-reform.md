@@ -1,6 +1,6 @@
 ---
 title: Recovery & Policy Reform
-parent: scenarios
+parent: Scenarios
 nav_order: 5
 layout: default
 ---
