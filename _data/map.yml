@@ -1,48 +1,34 @@
-# Project Identity
-title: Tether Collapse Simulation
-description: Explore the fallout of a stablecoin crash and its impact on remittance-dependent communities in Vietnam.
-footer_content: 'Simulation built for Project 2: Future of Security.'
+- title: Tether Reserve Breach
+  location: "British Virgin Islands"
+  lat: 18.4207
+  lng: -64.6400
+  description: >
+    Tether Ltd.'s offshore registration site where the breach was traced.
 
-# Just the Docs Theme Settings
-theme: just-the-docs
-permalink: pretty
+- title: Panic in Ho Chi Minh City
+  location: "Ho Chi Minh City, Vietnam"
+  lat: 10.7769
+  lng: 106.7009
+  description: >
+    Local families overwhelmed remittance centers after USDT depegged.
 
-# Navigation Structure
-nav_order: 1
+- title: IMF Emergency Coordination
+  location: "Washington D.C., USA"
+  lat: 38.9072
+  lng: -77.0369
+  description: >
+    IMF held emergency talks to stabilize developing countries’ remittance flows.
 
-# Sidebar navigation tooltips
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-    sidebar:
-      nav: main
+- title: Hanoi Government Response
+  location: "Hanoi, Vietnam"
+  lat: 21.0285
+  lng: 105.8544
+  description: >
+    Vietnam’s Ministry of Finance issued a public statement and began regulatory response.
 
-# Exclude files from build
-exclude:
-  - LICENSE
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-
-# Sidebar navigation items
-# (These follow the nav_order set in each .md file’s front matter)
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      nav_exclude: false
-
-# Optional collapsible menu for grouping
-# Uncomment if you'd like to use a parent page (like “Simulation Tools”)
-# For example:
-# - map.md
-# - roles.md
-# - timeline.md
-# can be grouped under "Simulation Tools"
-
-# Just the Docs Advanced Options (optional)
-search_enabled: true
-heading
+- title: Binance Global Freeze
+  location: "Singapore"
+  lat: 1.3521
+  lng: 103.8198
+  description: >
+    Binance’s compliance office issued a halt on USDT-VND transactions.
