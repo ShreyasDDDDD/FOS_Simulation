@@ -2,6 +2,7 @@
 title: Pre-Crash Market Stress
 parent: scenarios
 nav_order: 1
+layout: default
 ---
 
 # ⚠️ Scenario 1: Pre-Crash Market Stress
