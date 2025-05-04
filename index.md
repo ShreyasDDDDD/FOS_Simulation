@@ -47,7 +47,7 @@ This project is part of **Project 2: Future of Security**, built using the [Just
 
 ## Resources
 
-- [GitHub Repository](https://github.com/your-username/tether-simulation-vietnam)
+- [GitHub Repository](https://github.com/ShreyasDDDDD/FOS_SimulationZ)
 - [Template Source](https://github.com/future-of-security/simulation-template)
 - [Markdown Style Examples](https://just-the-docs.com/docs/index-test/)
 
