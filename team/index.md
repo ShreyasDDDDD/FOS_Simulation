@@ -2,6 +2,7 @@
 title: Team
 layout: page
 nav_order: 99
+has_children: true
 ---
 
 # Team Central
