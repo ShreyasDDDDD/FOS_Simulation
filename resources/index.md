@@ -4,7 +4,7 @@ This document lists key resources, data sources, and tools relevant to understan
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 - **World Bank Remittance Inflows**
   - https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT?locations=VN
@@ -24,7 +24,7 @@ This document lists key resources, data sources, and tools relevant to understan
 
 ---
 
-## 📰 Reports & Articles
+## Reports & Articles
 
 - **"Vietnam Sees Drop in Remittances Amid Global Economic Uncertainty"**  
   - [VNExpress International](https://e.vnexpress.net/)  
@@ -40,7 +40,7 @@ This document lists key resources, data sources, and tools relevant to understan
 
 ---
 
-## 🛠️ Tools for Analysis
+## Tools for Analysis
 
 - **Jupyter Notebook / Google Colab**
   - Python-based data analysis with pandas, matplotlib, seaborn.
@@ -53,7 +53,7 @@ This document lists key resources, data sources, and tools relevant to understan
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Remittances represent ~6-7% of Vietnam's GDP in some years.
 - Key remittance-sending countries: USA, South Korea, Japan, Australia.
@@ -62,5 +62,5 @@ This document lists key resources, data sources, and tools relevant to understan
 
 ---
 
-_Last updated: April 2025_
+
 
