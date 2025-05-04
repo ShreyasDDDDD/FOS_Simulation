@@ -5,7 +5,7 @@ nav_order: 1
 layout: default
 ---
 
-# ⚠️ Scenario 1: Pre-Crash Market Stress
+# Scenario 1: Pre-Crash Market Stress
 
 **Date:** January – April 2025
 
