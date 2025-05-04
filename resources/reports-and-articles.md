@@ -5,7 +5,7 @@ nav_order: 2
 layout: default
 ---
 
-# 📰 Reports & Articles
+# Reports & Articles
 
 - **"Vietnam Sees Drop in Remittances Amid Global Economic Uncertainty"**  
   [VNExpress International](https://e.vnexpress.net/)  
