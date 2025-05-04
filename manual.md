@@ -15,5 +15,5 @@ This page contains the full simulation manual in PDF format. You can read it onl
   <a href="FOS_Simulation/assets/images/simulation-manual.pdf">Download PDF</a>.
 </iframe>
 
-[Click here to download the manual (PDF)](/assets/images/simulation-manual.pdf)
+[Click here to download the manual (PDF)](FOS_Simulation/assets/images/simulation-manual.pdf)
 
