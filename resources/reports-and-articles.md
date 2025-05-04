@@ -2,6 +2,7 @@
 title: Reports & Articles
 parent: Resources
 nav_order: 2
+layout: default
 ---
 
 # 📰 Reports & Articles
