@@ -10,11 +10,10 @@ This page contains the full simulation manual in PDF format. You can read it onl
 
 ## View Inline
 
-<iframe src="/assets/images/Simulation Manual.pdf" width="100%" height="700px">
+<iframe src="/assets/images/simulation-manual.pdf" width="100%" height="700px">
   Your browser does not support PDF viewing. You can download it instead:
-  <a href="/assets/images/Simulation Manual.pdf">Download PDF</a>.
+  <a href="/assets/images/simulation-manual.pdf">Download PDF</a>.
 </iframe>
 
-## Download
+[Click here to download the manual (PDF)](/assets/images/simulation-manual.pdf)
 
-[Click here to download the manual (PDF)](/assets/images/Simulation Manual.pdf)
