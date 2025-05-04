@@ -5,7 +5,7 @@ nav_order: 1
 layout: default
 ---
 
-# 📊 Data Sources
+# Data Sources
 
 - **World Bank Remittance Inflows**  
   [World Bank Vietnam Remittance Data](https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT?locations=VN)  
