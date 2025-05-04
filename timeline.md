@@ -15,4 +15,5 @@ This page presents a detailed timeline of events following the collapse of Tethe
 | May 1       | Public unrest emerges in remittance-heavy provinces like Nghệ An and Cần Thơ. |
 | May 2       | Government deploys mobile financial relief teams. |
 
-> You may add more events or make this interactive using JavaScript libraries if needed.
+![Tether Collapse Timeline](../assets/images/timeline.png)
+
