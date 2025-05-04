@@ -2,6 +2,7 @@
 title: Key Notes
 parent: Resources
 nav_order: 3
+layout: default
 ---
 
 # 📝 Key Notes
