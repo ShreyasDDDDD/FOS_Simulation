@@ -33,10 +33,10 @@ On **April 27, 2025**, Tether’s reserves were compromised by a major exploit, 
 ## Quick Access
 
 🔹 [Simulation Manual (PDF)](assets/manual/tether-simulation-manual.pdf)  
-🔹 [Timeline of Events](timeline.html)  
-🔹 [Stakeholder Roles & Objectives](roles.html)  
-🔹 [Evaluation Metrics](evaluation.html)  
-🔹 [Facilitator Guide](facilitator-guide.html)
+🔹 [Timeline of Events](timeline.md)  
+🔹 [Stakeholder Roles & Objectives](roles.md)  
+🔹 [Evaluation Metrics](evaluation.md)  
+🔹 [Facilitator Guide](facilitator-guide.md)
 
 ---
 
