@@ -14,19 +14,19 @@ Explore the scenarios below to prepare for your strategic role in the simulation
 
 ---
 
-### 1. [Pre-Crash Market Stress](pre-crash.md)
+### 1. [Pre-Crash Market Stress]
 Early signals of instability and over-reliance on stablecoins emerge. Participants monitor trends and propose risk mitigation plans.
 
-### 2. [Tether Exploit & Immediate Collapse](exploit-collapse.md)
+### 2. [Tether Exploit & Immediate Collapse]
 A sudden exploit depegs USDT, causing panic across digital markets and halting remittance access in Vietnam.
 
-### 3. [Remittance Panic in Vietnam](remittance-panic.md)
+### 3. [Remittance Panic in Vietnam]
 Households dependent on USDT remittances face financial distress. Civil unrest and political friction intensify.
 
-### 4. [Government & IMF Intervention](gov-response.md)
+### 4. [Government & IMF Intervention]
 Vietnam seeks international aid. Emergency crypto regulations are proposed. Global stakeholders debate recovery terms.
 
-### 5. [Recovery & Policy Reform](recovery-reform.md)
+### 5. [Recovery & Policy Reform]
 Stabilization begins. Structural reforms are introduced to ensure long-term remittance security and digital currency oversight.
 
 ---
