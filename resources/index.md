@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-# 📚 Resources: Remittance Crisis in Vietnam
+# Resources: Remittance Crisis in Vietnam
 
 This section compiles curated information, articles, and official datasets relevant to analyzing the remittance crisis in Vietnam.
 
@@ -13,11 +13,11 @@ Use the navigation panel to explore specific resource types.
 
 ---
 
-## 🔗 Sections
+## Sections
 
-- [Data Sources](data-sources.md)
-- [Reports & Articles](reports-and-articles.md)
-- [Key Notes](notes.md)
+- Data Sources
+- Reports & Articles
+- Key Notes
 
 ---
 
