@@ -5,7 +5,7 @@ nav_order: 5
 layout: default
 ---
 
-# 🌱 Scenario 5: Recovery & Policy Reform
+# Scenario 5: Recovery & Policy Reform
 
 **Date:** May 5 – May 20, 2025
 
