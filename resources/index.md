@@ -1,4 +1,4 @@
-# 📚 Resources: Remittance Crisis in Vietnam
+# Resources: Remittance Crisis in Vietnam
 
 This document lists key resources, data sources, and tools relevant to understanding and analyzing the remittance crisis affecting Vietnam.
 
