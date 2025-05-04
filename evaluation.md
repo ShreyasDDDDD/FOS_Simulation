@@ -1,7 +1,6 @@
 ---
 title: Evaluation Metrics
 layout: page
-nav_order: 4
 ---
 
 # 📊 Evaluation Metrics
