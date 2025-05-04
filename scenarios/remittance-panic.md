@@ -5,7 +5,7 @@ nav_order: 3
 layout: default
 ---
 
-# 😨 Scenario 3: Remittance Panic in Vietnam
+# Scenario 3: Remittance Panic in Vietnam
 
 **Date:** April 28–29, 2025
 
