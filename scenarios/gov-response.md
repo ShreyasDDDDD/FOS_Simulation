@@ -5,7 +5,7 @@ nav_order: 4
 layout: default
 ---
 
-# 🧩 Scenario 4: Government & IMF Intervention
+# Scenario 4: Government & IMF Intervention
 
 **Date:** April 30 – May 5, 2025
 
