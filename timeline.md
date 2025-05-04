@@ -1,6 +1,6 @@
 ---
 title: Timeline of Events
-layout: page
+layout: default
 ---
 
 # 🕒 Timeline of Events
