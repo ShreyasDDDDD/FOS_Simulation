@@ -4,9 +4,9 @@ nav_order: 2
 layout: default
 ---
 
-# 🧠 Background: Why This Simulation Matters
+#  Background: Why This Simulation Matters
 
-## 📌 Setting the Stage
+## Setting the Stage
 
 Stablecoins like **Tether (USDT)** were created to bridge the speed of crypto with the reliability of fiat currency. By being pegged to the U.S. dollar, they became a go-to tool for fast, cheap, and borderless money transfers — especially in **remittance-heavy countries** like **Vietnam**.
 
@@ -16,7 +16,7 @@ Over time, Tether became deeply embedded in financial ecosystems around the worl
 
 ---
 
-## 🇻🇳 Why Vietnam?
+##  Why Vietnam?
 
 Vietnam is consistently ranked among the top 10 remittance-receiving countries. In 2022 alone, the country received over **$19 billion USD** in remittances, much of it sent digitally. With growing crypto adoption, many Vietnamese families began using **USDT wallets and peer-to-peer (P2P) crypto platforms** to avoid traditional banking fees and delays.
 
@@ -24,7 +24,7 @@ Vietnam is consistently ranked among the top 10 remittance-receiving countries. 
 
 ---
 
-## 💣 The Tether Collapse: A Global Shockwave
+## The Tether Collapse: A Global Shockwave
 
 In this simulation’s narrative, an **exploit drains Tether’s reserves** on April 27, 2025, causing it to lose its 1:1 peg. The crash sets off a chain reaction:
 
@@ -35,7 +35,7 @@ In this simulation’s narrative, an **exploit drains Tether’s reserves** on A
 
 ---
 
-## 🎯 Why This Simulation Now?
+## Why This Simulation Now?
 
 As digital currencies gain popularity — and become woven into the financial safety nets of vulnerable communities — we face **new security dilemmas**:
 
@@ -45,7 +45,7 @@ As digital currencies gain popularity — and become woven into the financial sa
 
 ---
 
-## 🔍 Learning Focus
+## Learning Focus
 
 This simulation challenges participants to:
 
