@@ -2,6 +2,7 @@
 title: Data Sources
 parent: Resources
 nav_order: 1
+layout: default
 ---
 
 # 📊 Data Sources
