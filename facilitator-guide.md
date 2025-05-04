@@ -1,7 +1,6 @@
 ---
 title: Facilitator Guide
 layout: page
-nav_order: 5
 ---
 
 # 🧭 Facilitator Guide
