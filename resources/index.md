@@ -15,9 +15,9 @@ Use the navigation panel to explore specific resource types.
 
 ## 🔗 Sections
 
-- [Data Sources](resources/data-sources.md)
-- [Reports & Articles](resources/reports-and-articles.md)
-- [Key Notes](resources/notes.md)
+- [Data Sources](data-sources.md)
+- [Reports & Articles](reports-and-articles.md)
+- [Key Notes](notes.md)
 
 ---
 
