@@ -41,7 +41,7 @@ On **April 27, 2025**, Tether’s reserves were compromised by a major exploit, 
 
 ## About the Simulation
 
-This project is part of **Project 2: Future of Security**, built using the [Just the Docs](https://just-the-docs.com) framework and hosted via [GitHub Pages](https://pages.github.com). Developed to promote strategic decision-making, ethical resilience, and global systems thinking in the face of digital instability.
+This project is part of **Future of Security: Simulation Project**, built using the [Just the Docs](https://just-the-docs.com) framework and hosted via [GitHub Pages](https://pages.github.com). Developed to promote strategic decision-making, ethical resilience, and global systems thinking in the face of digital instability.
 
 ---
 
