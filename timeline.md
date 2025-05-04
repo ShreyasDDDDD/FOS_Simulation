@@ -1,7 +1,6 @@
 ---
 title: Timeline of Events
 layout: page
-nav_order: 2
 ---
 
 # 🕒 Timeline of Events
