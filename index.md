@@ -33,7 +33,7 @@ On **April 27, 2025**, Tether’s reserves were compromised by a major exploit, 
 
 ## Visual Snapshot
 
-![Vietnam Remittance Crisis](https://vcdn1-english.vnecdn.net/2025/01/10/Screenshot20250110at91515AM-17-8347-8470-1736475336.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8_v8bmQD7UEpDtn4Qr6R3A)
+![Vietnam Remittance Crisis](https://vcdn1-english.vnecdn.net/2025/01/10/Screenshot20250110at91515AM-17-8347-8470-1736475336.png)
 > *“When the coin crashed, we didn’t just lose money — we lost a lifeline.”*  
 > — Roleplay testimony from a remittance-dependent Vietnamese family
 
