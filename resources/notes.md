@@ -5,7 +5,7 @@ nav_order: 3
 layout: default
 ---
 
-# 📝 Key Notes
+# Key Notes
 
 - Remittances contribute ~6–7% of Vietnam's GDP.
 - Major sending countries: United States, Japan, South Korea, Australia.
